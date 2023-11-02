@@ -1,0 +1,13 @@
+#Yes,
+#No {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+#Yes {
+  color: white;
+  background-color: black;
+}
+#No {
+  background-color: yellow;
+}
