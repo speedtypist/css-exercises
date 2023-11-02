@@ -1,0 +1,20 @@
+.odd {
+
+    background-color:rgb(255, 192, 203);
+    font-family: verdana,sans-serif, ;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#no2 {
+font-size: 36px;
+color:rgb(0, 0, 255);
+}
+
+#no4 { background-color: rgb(144, 238, 144);
+    font-weight: 700;
+    font-size: 24px;
+}
+
